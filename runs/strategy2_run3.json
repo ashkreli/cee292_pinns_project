@@ -1,0 +1,16 @@
+{
+    "run_name": "strategy2_run3",
+    "start_frac": 1.0,
+    "mode": "ntk_lr",
+    "base_lr": 0.0001,
+    "ntk_every": 500,
+    "n_ntk": 700,
+    "lr_clip": 10.0,
+    "lambda_max_0": 9967.105979734926,
+    "lambda_max_final": 11771.234189344954,
+    "final_lr": 8.449900755436419e-05,
+    "n_colloc": 3002,
+    "l-bfgs": true,
+    "error_u": 0.11689635434517855,
+    "error_v": 0.09471522070523343
+}

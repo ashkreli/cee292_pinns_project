@@ -1,0 +1,9 @@
+{
+    "run_name": "expressivity_test",
+    "mode": "expressivity_fit",
+    "fit_epochs": 20000,
+    "fit_lr": 0.001,
+    "final_fit_loss": 0.00015230721534453592,
+    "error_u": 0.009920036281686324,
+    "error_v": 0.007335969339536968
+}

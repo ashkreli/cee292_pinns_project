@@ -1,0 +1,18 @@
+{
+    "run_name": "strategy1_run3",
+    "start_frac": 0.5,
+    "mode1": "sample",
+    "mode2": "grid",
+    "add_frac1": 0.2,
+    "add_frac2": 0.4,
+    "frac1": 0.3,
+    "frac2": 0.65,
+    "k1": 2.0,
+    "c1": 1.0,
+    "k2": 1.0,
+    "c2": 1.0,
+    "n_colloc": 2972,
+    "l-bfgs": true,
+    "error_u": 0.12015235426591032,
+    "error_v": 0.09990798683854862
+}
